@@ -8,4 +8,4 @@ This project analyzes the Motorola Sales performance including :
 - transaction by payment method
 - by brand
 - by mobile model
-- 
+  
